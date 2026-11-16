@@ -1,6 +1,10 @@
 
 # Accounting-Aware Semantic Alignment of Financial Statement Concepts Using Transformer Embeddings and Ontology-Guided Similarity
 
+Banavathu Jothi Prakash\
+banavathu23@iiserb.ac.in\
+Indian Institute of Science Education and Research Bhopal, India
+
 ## Project Structure
 
 ```text
