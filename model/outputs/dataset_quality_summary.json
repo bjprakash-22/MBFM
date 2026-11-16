@@ -1,0 +1,10 @@
+{
+  "companies": 13162,
+  "financial_variables": 182,
+  "total_possible_values": 2395484,
+  "available_values": 135902,
+  "overall_coverage_percent": 5.67,
+  "overall_missingness_percent": 94.33,
+  "zero_observation_variables": 3,
+  "median_features_per_company": 0.0
+}

@@ -1,0 +1,142 @@
+Concept_ID,Original_Variable,Refined_Domain,Refined_Category,SBERT_Cluster,FinBERT_Cluster,Combined_Cluster
+FIN_03072DDDEA19,Interest on short term borrowings / bank overdrafts / revolving credit facility,Expenses,Finance Costs,3,2,8
+FIN_0853F25AD750,Gain on disposal of non-current non-financial assets,Gains and Losses,Asset and Investment Gains,7,2,5
+FIN_0934223437CE,Technical know-how fees and technical service fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_0B56A17EEA53,Postage & courier,Expenses,Operating and Administrative Costs,5,1,4
+FIN_0BD8ED8EC598,Interest expense,Expenses,Finance Costs,3,1,8
+FIN_12AD529248EC,Social and community expenses (including CSR exp),Expenses,Operating and Administrative Costs,1,2,3
+FIN_17347058195F,Consultancy fees to auditors,Expenses,Operating and Administrative Costs,9,1,1
+FIN_188E881C7BB3,Water charges,Expenses,Operating and Administrative Costs,0,1,0
+FIN_18A52D241144,Purchase of finished goods,Inventory,Inventory Changes,5,1,4
+FIN_1B1E84C7DB4D,"Expenses on data centres, web hosting and co hosting",Expenses,Operating and Administrative Costs,1,1,3
+FIN_1CC010643954,Fiscal benefits,Revenue,Operating and Other Revenue,4,1,2
+FIN_1FA2D52B95E1,Excise duty,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_22F2FB4E6109,Other fund based financial services expenses,Expenses,Finance Costs,1,1,3
+FIN_269F1268D7C1,Penalties on taxes,Expenses,Tax and Regulatory Costs,4,0,2
+FIN_28450D25E27F,Of which: Royalty income,Revenue,Financial Revenue,2,2,6
+FIN_2DA061F58EF8,Change in stock of wip and semifinished goods (including in transit),Inventory,Inventory Changes,5,2,5
+FIN_2F605E6D64D4,Of which: Dividend from group companies,Revenue,Financial Revenue,7,2,6
+FIN_328370A41467,Gain on financial instruments,Revenue,Financial Revenue,7,2,5
+FIN_33A8A4C6DA7B,Environment and pollution control related expenses,Expenses,Operating and Administrative Costs,0,1,3
+FIN_33C5C2B371F5,Salaries & wages,Expenses,Employee Costs,2,0,6
+FIN_35506C551C5D,"Expenses other than Depreciation, Interest, Taxes, Provisions and Amortizations",Expenses,Non-Cash Expenses,1,2,3
+FIN_35CE64B616E4,Sales tax,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_380106D57CCF,Sales promotion expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_3819CC19E4FC,Trading revenue and non-financial services,Revenue,Operating and Other Revenue,7,1,6
+FIN_38A7343E2FFA,"Expenses on vsats, satellite links",Expenses,Operating and Administrative Costs,1,1,3
+FIN_393FE81F02FB,Indirect taxes,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_3C17F9F16265,Sales of goods,Revenue,Operating and Other Revenue,5,1,4
+FIN_3C6006970FC1,Treasury operations expenses,Revenue,Financial Revenue,1,1,3
+FIN_3D54BB08B396,Staff welfare & training expenses,Expenses,Employee Costs,1,1,3
+FIN_3ECC6CDD70CC,Total expenses of continued operations,Expenses,Total Expenses,1,2,3
+FIN_3F79C7525FD4,Of which: Legal charges,Expenses,Operating and Administrative Costs,4,1,1
+FIN_434E6A6CEDDB,Share of profit in partnership and JV firms,Revenue,Financial Revenue,7,2,5
+FIN_4730462E2E75,Repairs & maintenance of plant & machinery,Revenue,Operating and Other Revenue,6,1,4
+FIN_47F8AD6236DC,Consultancy fees to others,Expenses,Operating and Administrative Costs,9,1,1
+FIN_48043636822F,Employee benefits expenses,Expenses,Employee Costs,1,0,3
+FIN_490058D7E8A6,Of which: Brokerage & commission fees,Revenue,Financial Revenue,9,1,1
+FIN_4A28F382C7E9,Material/exceptional income,Accounting Adjustments,Exceptional and Other Adjustments,2,0,6
+FIN_4B9EC21DFB1A,Interest income from banks,Revenue,Financial Revenue,3,2,8
+FIN_4BC68738CC96,Repairs & maintenance,Revenue,Operating and Other Revenue,6,1,4
+FIN_52BD53283BF8,Expenses on isps for internet services,Expenses,Operating and Administrative Costs,1,0,3
+FIN_54A50EA6CE42,Ordinary and non-exceptional expenses,Expenses,Total Expenses,1,2,3
+FIN_5564F8EC361B,Fee based financial services expenses,Expenses,Finance Costs,1,1,3
+FIN_5CAF3B5F43E5,Goods and service tax,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_5D5D209595C9,License fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_600AE2AF0B4D,Auditors fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_61B19901962E,Gratuities and superannuation,Expenses,Employee Costs,2,2,6
+FIN_6530260B971B,Raw material expenses,Expenses,Material and Production Costs,1,1,3
+FIN_670ADA476D20,Gain relating to forex transactions,Revenue,Financial Revenue,7,2,5
+FIN_6A8C296E5728,Premium/discount on debt instruments,Expenses,Finance Costs,3,2,0
+FIN_74A44A46828D,Of which: Cost audit fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_77693C509B90,Dividend income,Revenue,Financial Revenue,2,2,6
+FIN_77B8BD45D83B,Repairs & maintenance of buildings,Revenue,Operating and Other Revenue,6,1,4
+FIN_78A126F37B09,Other interest expense (term not specified),Expenses,Finance Costs,3,2,8
+FIN_7BFCB554EDCA,Communications expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_7CBFA4B52D50,Miscellaneous expenditure,Expenses,Operating and Administrative Costs,1,1,3
+FIN_85132C1B0D2F,Payments and other expenses on employees,Expenses,Employee Costs,1,0,3
+FIN_8523C43B68BA,Income from financial services,Revenue,Financial Revenue,2,1,6
+FIN_86D1B9A3EA4A,Consultancy fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_88896CC35CDD,Loss relating to forex transactions,Gains and Losses,Financial Gains and Losses,7,0,7
+FIN_888CA5D5C2F1,Construction income,Revenue,Operating and Other Revenue,2,1,6
+FIN_88F10B4A5F39,Of which: Trading income,Revenue,Operating and Other Revenue,7,1,6
+FIN_8A0045F3B426,Interest income of cos other than banks from loans and advances,Revenue,Financial Revenue,3,2,8
+FIN_8AF75BA118BF,Other operational expenses of non-financial services enterprises,Expenses,Operating and Administrative Costs,1,1,3
+FIN_8CEE6B145D53,Packaging and packing expenses,Expenses,Material and Production Costs,5,1,3
+FIN_8E232A78A47B,Royalty,Expenses,Operating and Administrative Costs,2,1,6
+FIN_8EF9DAA89383,"Fair value gain on retained interest in a subsidiary, associate or JV",Gains and Losses,Asset and Investment Gains,7,2,5
+FIN_8F561F9C4F13,Insurance premium paid,Expenses,Operating and Administrative Costs,1,2,0
+FIN_903FDBA79BF6,Selling & distribution expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_9308170CBCEF,Research & development expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_940E00B40A94,Software charges,Expenses,Operating and Administrative Costs,9,1,0
+FIN_95298D39DD54,Rebates & discount expenses,Expenses,Operating and Administrative Costs,1,1,0
+FIN_958A75FAB61F,Manufacturing revenue,Revenue,Operating and Other Revenue,7,1,4
+FIN_96470DCFEB7E,Gain on corporate and debt restructuring (inclg. one time debt waiver),Accounting Adjustments,Exceptional and Other Adjustments,7,2,7
+FIN_9730B8BCA468,"Royalties, technical know-how fees, etc.",Expenses,Operating and Administrative Costs,9,1,1
+FIN_9798B44DCCA8,IT enabled services charges,Expenses,Operating and Administrative Costs,1,1,0
+FIN_99D354061981,Value added tax (VAT),Expenses,Tax and Regulatory Costs,4,2,2
+FIN_9B2B7504FCDA,Telephone expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_9B4B398BFB73,Penalties on direct taxes,Expenses,Tax and Regulatory Costs,4,0,2
+FIN_9B89816F65E9,Power & fuel (including wheeling charges paid by electricity companies),Expenses,Material and Production Costs,0,2,9
+FIN_9BAF6481910F,Share-based payments,Expenses,Employee Costs,7,1,6
+FIN_9C5127265BFC,Less: Income capitalised and transferred to DRE,Accounting Adjustments,Capitalisation and Transfers,2,2,6
+FIN_9E9AE3D98900,Marketing expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_9F3AE6C8D210,Auditors fees for taxation matters,Expenses,Operating and Administrative Costs,9,1,1
+FIN_9F4B32717065,Outsourced professional services,Expenses,Operating and Administrative Costs,2,1,6
+FIN_9FFC7914BF58,Total expenses excluding direct taxes,Expenses,Total Expenses,1,2,2
+FIN_A31C1C35F3DC,Rent & lease rent,Expenses,Operating and Administrative Costs,0,1,8
+FIN_A43E9F10E204,Bad debts recovered,Revenue,Operating and Other Revenue,3,0,7
+FIN_A5D21E48CFE5,Total Income from continued operations,Revenue,Total Revenue,7,2,6
+FIN_A7DB8D3B7E24,Fee based financial services income,Revenue,Financial Revenue,1,1,6
+FIN_A8CAAD939D81,"Salaries, wages, bonus, ex gratia pf & gratuities paid",Expenses,Employee Costs,2,2,6
+FIN_A958EB1C0B22,Less: Interest capitalised,Accounting Adjustments,Capitalisation and Transfers,3,2,8
+FIN_AD62CF41FE46,Travel expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_AEF2B61C625A,Profit on securitisation/assignment of assets and loans,Revenue,Financial Revenue,7,2,7
+FIN_B04940E40334,Bill discounting charges,Expenses,Finance Costs,1,1,0
+FIN_B0B1FC31CB09,"Stores, spares, tools consumed",Expenses,Material and Production Costs,5,1,4
+FIN_B2A392E17F73,Other income,Revenue,Operating and Other Revenue,2,1,6
+FIN_B2FCC659EE1D,Other borrowing costs,Expenses,Finance Costs,3,1,8
+FIN_B8403CD05F48,Audit fees,Expenses,Operating and Administrative Costs,9,1,1
+FIN_B8FB6115E111,Of which: Loss on securitisation/assignment of assets and loans,Gains and Losses,Financial Gains and Losses,7,2,7
+FIN_BA59D415DE43,Bank charges and commission,Expenses,Finance Costs,9,0,1
+FIN_BC20C36A5E0C,Other financial services income,Revenue,Financial Revenue,2,1,6
+FIN_BC466D852FE8,Interest on finance lease,Expenses,Finance Costs,3,2,8
+FIN_BEB514AF4493,Outsourced industrial jobs (Including Mfg.),Expenses,Material and Production Costs,2,2,6
+FIN_BEB60B8338C0,Income from non-financial services,Revenue,Operating and Other Revenue,2,2,6
+FIN_BEC19EC59955,Interest on long term borrowings / convertible borrowings,Expenses,Finance Costs,3,2,8
+FIN_C1D5258BD1D7,Non-executive directors' fees & commission,Expenses,Employee Costs,9,1,1
+FIN_C5026DFDCF2D,Change in stock,Inventory,Inventory Changes,8,1,5
+FIN_C95D4C08765F,Other professional services,Expenses,Operating and Administrative Costs,2,1,6
+FIN_D06A42F73B52,"Of which: Export incentives including duty draw back, etc.",Revenue,Operating and Other Revenue,7,2,2
+FIN_D1CF614C39C5,Loss on financial instruments,Revenue,Financial Revenue,7,0,7
+FIN_D283F080F0A7,Income from repairs & maintenance including after-sales service income,Revenue,Operating and Other Revenue,6,2,4
+FIN_D2CC1B5E7D9A,Job-work income,Revenue,Operating and Other Revenue,2,0,6
+FIN_D547EC0DEFF3,Insurance claims,Gains and Losses,Asset and Investment Gains,1,1,0
+FIN_D7A4B00FD879,Provisions/impairment and credit balances written back,Expenses,Non-Cash Expenses,3,0,7
+FIN_D975467FA329,Change in stock of finished goods (including in transit),Inventory,Inventory Changes,5,2,5
+FIN_DC7E3FA72E36,Guarantee fees and commission,Expenses,Finance Costs,9,1,1
+FIN_DDF2D1E61E18,Auditors fees for company law matters & others,Expenses,Operating and Administrative Costs,9,1,1
+FIN_DDFB8304B675,Repairs & maintenance of vehicles & others,Revenue,Operating and Other Revenue,6,1,4
+FIN_DE1E55D1ED9E,Less: Compensation to employees capitalised,Expenses,Employee Costs,8,0,6
+FIN_E2E6A58D2276,Contribution to provident fund,Expenses,Employee Costs,2,2,6
+FIN_E3EF503E4328,Interest income,Revenue,Financial Revenue,3,1,8
+FIN_E59E95731018,"Sale of electricity, gas and water",Revenue,Operating and Other Revenue,0,2,9
+FIN_E61EF52C3759,Other adjustments in change in inventories,Inventory,Inventory Changes,8,2,7
+FIN_E710838D981A,Of which: Service tax,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_E81FEE7063D5,Of which: Income from carbon credits,Revenue,Operating and Other Revenue,2,2,6
+FIN_E85D503CA765,Fund based financial services expenses,Expenses,Finance Costs,1,1,3
+FIN_EEB010AA733C,Advertising expenses,Expenses,Operating and Administrative Costs,1,1,3
+FIN_F55A46ED4801,Less: indirect tax credits,Accounting Adjustments,Tax Credits and Deductions,4,2,2
+FIN_F6461EAAB339,"Raw materials, stores & spares",Expenses,Material and Production Costs,5,1,4
+FIN_F69DC252933E,Bonus & ex-gratia,Expenses,Employee Costs,2,2,5
+FIN_F6C272E92454,Distribution expenses (including outward freight),Expenses,Operating and Administrative Costs,1,2,3
+FIN_F75C231023BD,"Power, fuel (including wheeling charges paid by electricity companies) & water charges",Expenses,Material and Production Costs,0,2,9
+FIN_F9DF1D350BC6,"Profit on sale of investment in subsidiary, associates & JV",Gains and Losses,Asset and Investment Gains,7,2,5
+FIN_FA0FC6B6D418,Of which: Share of loss in partnership and JV firms,Gains and Losses,Financial Gains and Losses,7,2,7
+FIN_FA909C160A84,Interest income of cos other than banks from investments,Revenue,Financial Revenue,3,2,8
+FIN_FAF037CFF47C,Income from treasury operations,Revenue,Financial Revenue,2,2,6
+FIN_FDE0DEFF0020,Other indirect taxes,Expenses,Tax and Regulatory Costs,4,1,2
+FIN_FE35726CD816,Of which: Rent/Operating lease rent income,Revenue,Operating and Other Revenue,2,2,6
+FIN_FE614659DADE,Fair value gain on step acquisition of a subsidiary,Gains and Losses,Asset and Investment Gains,7,2,5
+FIN_FF18FCEBF80B,Financial services expenses,Expenses,Finance Costs,1,1,3
+FIN_FF7C3633B08F,Donations,Expenses,Operating and Administrative Costs,2,1,6

@@ -1,0 +1,4 @@
+Concept_A,Concept_B,Expected_Relationship,Expected_Label,SBERT_Similarity,FinBERT_Similarity,Hybrid_Similarity
+Employee benefits expenses,Staff welfare & training expenses,Equivalent or closely related,1,0.5975677,0.78579307,0.6916804
+Interest income from banks,Interest expense,Related but different,0,0.5722168,0.8763987,0.72430766
+Sales of goods,Purchase of finished goods,Related but different,0,0.7318155,0.8640299,0.79792273

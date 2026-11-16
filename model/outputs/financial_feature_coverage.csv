@@ -1,0 +1,183 @@
+Variable,Available_Values,Missing_Values,Coverage_Percent,Missing_Percent
+PL__Total Income from continued operations,1772,11390,13.46,86.54
+CHANGE__Total expenses excluding direct taxes,1772,11390,13.46,86.54
+CHANGE__Total Income from continued operations,1772,11390,13.46,86.54
+CHANGE__Total expenses of continued operations,1772,11390,13.46,86.54
+"CHANGE__Expenses other than Depreciation, Interest, Taxes, Provisions and Amortizations",1772,11390,13.46,86.54
+CHANGE__Ordinary and non-exceptional expenses,1772,11390,13.46,86.54
+CHANGE__Employee benefits expenses,1771,11391,13.46,86.54
+"CHANGE__Salaries, wages, bonus, ex gratia pf & gratuities paid",1771,11391,13.46,86.54
+CHANGE__Salaries & wages,1770,11392,13.45,86.55
+CHANGE__Miscellaneous expenditure,1765,11397,13.41,86.59
+CHANGE__Financial services expenses,1759,11403,13.36,86.64
+CHANGE__Outsourced professional services,1756,11406,13.34,86.66
+CHANGE__Income from financial services,1748,11414,13.28,86.72
+PL__Income from financial services,1748,11414,13.28,86.72
+PL__Income from non-financial services,1740,11422,13.22,86.78
+CHANGE__Income from non-financial services,1740,11422,13.22,86.78
+CHANGE__Fund based financial services expenses,1737,11425,13.2,86.8
+PL__Interest income,1730,11432,13.14,86.86
+CHANGE__Interest income,1730,11432,13.14,86.86
+CHANGE__Interest expense,1721,11441,13.08,86.92
+CHANGE__Repairs & maintenance,1710,11452,12.99,87.01
+CHANGE__Staff welfare & training expenses,1687,11475,12.82,87.18
+CHANGE__Selling & distribution expenses,1681,11481,12.77,87.23
+"CHANGE__Power, fuel (including wheeling charges paid by electricity companies) & water charges",1669,11493,12.68,87.32
+CHANGE__Power & fuel (including wheeling charges paid by electricity companies),1666,11496,12.66,87.34
+CHANGE__Other professional services,1661,11501,12.62,87.38
+CHANGE__Contribution to provident fund,1660,11502,12.61,87.39
+CHANGE__Rent & lease rent,1652,11510,12.55,87.45
+CHANGE__Repairs & maintenance of vehicles & others,1615,11547,12.27,87.73
+CHANGE__Insurance premium paid,1604,11558,12.19,87.81
+CHANGE__Gratuities and superannuation,1602,11560,12.17,87.83
+CHANGE__Travel expenses,1595,11567,12.12,87.88
+CHANGE__Indirect taxes,1555,11607,11.81,88.19
+PL__Material/exceptional income,1549,11613,11.77,88.23
+CHANGE__Material/exceptional income,1549,11613,11.77,88.23
+PL__Other income,1546,11616,11.75,88.25
+CHANGE__Other income,1546,11616,11.75,88.25
+CHANGE__Auditors fees,1543,11619,11.72,88.28
+CHANGE__Audit fees,1542,11620,11.72,88.28
+CHANGE__Other interest expense (term not specified),1541,11621,11.71,88.29
+CHANGE__Other indirect taxes,1529,11633,11.62,88.38
+CHANGE__Trading revenue and non-financial services,1443,11719,10.96,89.04
+PL__Trading revenue and non-financial services,1443,11719,10.96,89.04
+CHANGE__Marketing expenses,1396,11766,10.61,89.39
+CHANGE__Income from treasury operations,1397,11765,10.61,89.39
+PL__Income from treasury operations,1397,11765,10.61,89.39
+CHANGE__Of which: Legal charges,1374,11788,10.44,89.56
+CHANGE__Manufacturing revenue,1337,11825,10.16,89.84
+PL__Manufacturing revenue,1337,11825,10.16,89.84
+CHANGE__Change in stock,1329,11833,10.1,89.9
+CHANGE__Social and community expenses (including CSR exp),1315,11847,9.99,90.01
+"CHANGE__Raw materials, stores & spares",1285,11877,9.76,90.24
+CHANGE__Change in stock of finished goods (including in transit),1271,11891,9.66,90.34
+CHANGE__Communications expenses,1243,11919,9.44,90.56
+CHANGE__Raw material expenses,1214,11948,9.22,90.78
+CHANGE__Provisions/impairment and credit balances written back,1214,11948,9.22,90.78
+PL__Provisions/impairment and credit balances written back,1214,11948,9.22,90.78
+CHANGE__Interest on finance lease,1190,11972,9.04,90.96
+CHANGE__Other operational expenses of non-financial services enterprises,1126,12036,8.55,91.45
+CHANGE__Repairs & maintenance of plant & machinery,1113,12049,8.46,91.54
+PL__Interest income from banks,1100,12062,8.36,91.64
+CHANGE__Interest income from banks,1100,12062,8.36,91.64
+CHANGE__Sales promotion expenses,1096,12066,8.33,91.67
+CHANGE__Distribution expenses (including outward freight),1086,12076,8.25,91.75
+CHANGE__Payments and other expenses on employees,1079,12083,8.2,91.8
+CHANGE__Repairs & maintenance of buildings,1064,12098,8.08,91.92
+PL__Sales of goods,1051,12111,7.99,92.01
+CHANGE__Sales of goods,1051,12111,7.99,92.01
+CHANGE__Non-executive directors' fees & commission,1045,12117,7.94,92.06
+CHANGE__Gain on financial instruments,1044,12118,7.93,92.07
+PL__Gain on financial instruments,1044,12118,7.93,92.07
+CHANGE__Change in stock of wip and semifinished goods (including in transit),1042,12120,7.92,92.08
+CHANGE__Advertising expenses,1016,12146,7.72,92.28
+CHANGE__Fee based financial services expenses,1013,12149,7.7,92.3
+"CHANGE__Stores, spares, tools consumed",1008,12154,7.66,92.34
+CHANGE__Treasury operations expenses,931,12231,7.07,92.93
+CHANGE__Purchase of finished goods,929,12233,7.06,92.94
+CHANGE__Gain relating to forex transactions,879,12283,6.68,93.32
+PL__Gain relating to forex transactions,879,12283,6.68,93.32
+CHANGE__Bank charges and commission,874,12288,6.64,93.36
+PL__Gain on disposal of non-current non-financial assets,863,12299,6.56,93.44
+CHANGE__Gain on disposal of non-current non-financial assets,863,12299,6.56,93.44
+CHANGE__Auditors fees for company law matters & others,796,12366,6.05,93.95
+CHANGE__Outsourced industrial jobs (Including Mfg.),789,12373,5.99,94.01
+CHANGE__Other borrowing costs,705,12457,5.36,94.64
+CHANGE__Loss relating to forex transactions,687,12475,5.22,94.78
+CHANGE__Of which: Rent/Operating lease rent income,684,12478,5.2,94.8
+PL__Of which: Rent/Operating lease rent income,684,12478,5.2,94.8
+PL__Fiscal benefits,664,12498,5.04,94.96
+CHANGE__Fiscal benefits,664,12498,5.04,94.96
+CHANGE__Interest income of cos other than banks from loans and advances,650,12512,4.94,95.06
+PL__Interest income of cos other than banks from loans and advances,650,12512,4.94,95.06
+"PL__Of which: Export incentives including duty draw back, etc.",595,12567,4.52,95.48
+"CHANGE__Of which: Export incentives including duty draw back, etc.",595,12567,4.52,95.48
+CHANGE__Share-based payments,544,12618,4.13,95.87
+CHANGE__Interest on long term borrowings / convertible borrowings,529,12633,4.02,95.98
+CHANGE__Donations,516,12646,3.92,96.08
+CHANGE__Of which: Trading income,510,12652,3.87,96.13
+PL__Of which: Trading income,510,12652,3.87,96.13
+CHANGE__Packaging and packing expenses,489,12673,3.72,96.28
+CHANGE__Research & development expenses,475,12687,3.61,96.39
+CHANGE__Dividend income,422,12740,3.21,96.79
+PL__Dividend income,422,12740,3.21,96.79
+CHANGE__Interest on short term borrowings / bank overdrafts / revolving credit facility,414,12748,3.15,96.85
+CHANGE__Loss on financial instruments,386,12776,2.93,97.07
+"CHANGE__Royalties, technical know-how fees, etc.",366,12796,2.78,97.22
+CHANGE__Rebates & discount expenses,338,12824,2.57,97.43
+PL__Insurance claims,264,12898,2.01,97.99
+CHANGE__Insurance claims,264,12898,2.01,97.99
+PL__Construction income,234,12928,1.78,98.22
+CHANGE__Construction income,234,12928,1.78,98.22
+CHANGE__Royalty,234,12928,1.78,98.22
+CHANGE__Job-work income,216,12946,1.64,98.36
+PL__Job-work income,216,12946,1.64,98.36
+CHANGE__Consultancy fees,200,12962,1.52,98.48
+CHANGE__Consultancy fees to others,196,12966,1.49,98.51
+CHANGE__Interest income of cos other than banks from investments,194,12968,1.47,98.53
+PL__Interest income of cos other than banks from investments,194,12968,1.47,98.53
+CHANGE__Water charges,192,12970,1.46,98.54
+"PL__Sale of electricity, gas and water",189,12973,1.44,98.56
+"CHANGE__Sale of electricity, gas and water",189,12973,1.44,98.56
+CHANGE__Less: Interest capitalised,184,12978,1.4,98.6
+CHANGE__Other adjustments in change in inventories,172,12990,1.31,98.69
+CHANGE__Software charges,165,12997,1.25,98.75
+CHANGE__Postage & courier,161,13001,1.22,98.78
+CHANGE__Less: Compensation to employees capitalised,152,13010,1.15,98.85
+CHANGE__Telephone expenses,133,13029,1.01,98.99
+CHANGE__IT enabled services charges,130,13032,0.99,99.01
+PL__Income from repairs & maintenance including after-sales service income,124,13038,0.94,99.06
+CHANGE__Income from repairs & maintenance including after-sales service income,124,13038,0.94,99.06
+CHANGE__Environment and pollution control related expenses,123,13039,0.93,99.07
+CHANGE__Auditors fees for taxation matters,117,13045,0.89,99.11
+CHANGE__License fees,114,13048,0.87,99.13
+CHANGE__Goods and service tax,112,13050,0.85,99.15
+CHANGE__Guarantee fees and commission,109,13053,0.83,99.17
+PL__Fee based financial services income,94,13068,0.71,99.29
+CHANGE__Fee based financial services income,94,13068,0.71,99.29
+CHANGE__Of which: Cost audit fees,85,13077,0.65,99.35
+CHANGE__Bonus & ex-gratia,83,13079,0.63,99.37
+PL__Of which: Brokerage & commission fees,73,13089,0.55,99.45
+CHANGE__Of which: Brokerage & commission fees,73,13089,0.55,99.45
+CHANGE__Of which: Royalty income,69,13093,0.52,99.48
+PL__Of which: Royalty income,69,13093,0.52,99.48
+CHANGE__Bad debts recovered,59,13103,0.45,99.55
+"PL__Profit on sale of investment in subsidiary, associates & JV",59,13103,0.45,99.55
+PL__Bad debts recovered,59,13103,0.45,99.55
+"CHANGE__Profit on sale of investment in subsidiary, associates & JV",59,13103,0.45,99.55
+CHANGE__Technical know-how fees and technical service fees,49,13113,0.37,99.63
+CHANGE__Bill discounting charges,42,13120,0.32,99.68
+CHANGE__Excise duty,39,13123,0.3,99.7
+CHANGE__Expenses on isps for internet services,37,13125,0.28,99.72
+PL__Other financial services income,27,13135,0.21,99.79
+CHANGE__Other fund based financial services expenses,27,13135,0.21,99.79
+CHANGE__Other financial services income,27,13135,0.21,99.79
+CHANGE__Share of profit in partnership and JV firms,26,13136,0.2,99.8
+PL__Share of profit in partnership and JV firms,26,13136,0.2,99.8
+PL__Less: Income capitalised and transferred to DRE,22,13140,0.17,99.83
+CHANGE__Less: Income capitalised and transferred to DRE,22,13140,0.17,99.83
+CHANGE__Of which: Share of loss in partnership and JV firms,20,13142,0.15,99.85
+"CHANGE__Expenses on data centres, web hosting and co hosting",20,13142,0.15,99.85
+CHANGE__Of which: Dividend from group companies,14,13148,0.11,99.89
+PL__Of which: Dividend from group companies,14,13148,0.11,99.89
+PL__Gain on corporate and debt restructuring (inclg. one time debt waiver),11,13151,0.08,99.92
+CHANGE__Gain on corporate and debt restructuring (inclg. one time debt waiver),11,13151,0.08,99.92
+CHANGE__Premium/discount on debt instruments,9,13153,0.07,99.93
+CHANGE__Sales tax,8,13154,0.06,99.94
+"CHANGE__Fair value gain on retained interest in a subsidiary, associate or JV",6,13156,0.05,99.95
+"PL__Fair value gain on retained interest in a subsidiary, associate or JV",6,13156,0.05,99.95
+PL__Of which: Income from carbon credits,5,13157,0.04,99.96
+CHANGE__Of which: Income from carbon credits,5,13157,0.04,99.96
+CHANGE__Consultancy fees to auditors,4,13158,0.03,99.97
+PL__Fair value gain on step acquisition of a subsidiary,2,13160,0.02,99.98
+PL__Profit on securitisation/assignment of assets and loans,2,13160,0.02,99.98
+CHANGE__Profit on securitisation/assignment of assets and loans,2,13160,0.02,99.98
+CHANGE__Fair value gain on step acquisition of a subsidiary,2,13160,0.02,99.98
+CHANGE__Value added tax (VAT),3,13159,0.02,99.98
+CHANGE__Less: indirect tax credits,1,13161,0.01,99.99
+CHANGE__Of which: Service tax,1,13161,0.01,99.99
+"CHANGE__Expenses on vsats, satellite links",1,13161,0.01,99.99
+CHANGE__Penalties on taxes,0,13162,0.0,100.0
+CHANGE__Penalties on direct taxes,0,13162,0.0,100.0
+CHANGE__Of which: Loss on securitisation/assignment of assets and loans,0,13162,0.0,100.0

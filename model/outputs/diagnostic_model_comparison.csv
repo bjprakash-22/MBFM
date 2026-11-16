@@ -1,0 +1,4 @@
+Concept_A,Concept_B,Expected_Label,Original_Hybrid,Role_Aware,Role_A,Role_B,Status
+Employee benefits expenses,Staff welfare & training expenses,1,0.8458,0.8921,Expense,Expense,Found
+Interest income from banks,Interest expense,0,0.4622,0.3535,Income,Expense,Found
+Sales of goods,Purchase of finished goods,0,0.499,0.3793,Income,Inventory,Found

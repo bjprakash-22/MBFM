@@ -1,0 +1,183 @@
+Original_Variable,Dataset,Normalized_Variable,Accounting_Qualifier,Tokens,Token_Count
+Total Income from continued operations,PL_Composition,total income from continued operations,Primary,"['total', 'income', 'from', 'continued', 'operations']",5
+Income from non-financial services,PL_Composition,income from non financial services,Primary,"['income', 'from', 'non', 'financial', 'services']",5
+Manufacturing revenue,PL_Composition,manufacturing revenue,Primary,"['manufacturing', 'revenue']",2
+Trading revenue and non-financial services,PL_Composition,trading revenue and non financial services,Primary,"['trading', 'revenue', 'and', 'non', 'financial', 'services']",6
+Sales of goods,PL_Composition,sales of goods,Primary,"['sales', 'of', 'goods']",3
+Job-work income,PL_Composition,job work income,Primary,"['job', 'work', 'income']",3
+Income from repairs & maintenance including after-sales service income,PL_Composition,income from repairs maintenance including after sales service income,Primary,"['income', 'from', 'repairs', 'maintenance', 'including', 'after', 'sales', 'service', 'income']",9
+Construction income,PL_Composition,construction income,Primary,"['construction', 'income']",2
+"Sale of electricity, gas and water",PL_Composition,sale of electricity gas and water,Primary,"['sale', 'of', 'electricity', 'gas', 'and', 'water']",6
+Fiscal benefits,PL_Composition,fiscal benefits,Primary,"['fiscal', 'benefits']",2
+"Of which: Export incentives including duty draw back, etc.",PL_Composition,of which export incentives including duty draw back etc,Subcomponent,"['of', 'which', 'export', 'incentives', 'including', 'duty', 'draw', 'back', 'etc']",9
+Of which: Trading income,PL_Composition,of which trading income,Subcomponent,"['of', 'which', 'trading', 'income']",4
+Of which: Royalty income,PL_Composition,of which royalty income,Subcomponent,"['of', 'which', 'royalty', 'income']",4
+Of which: Rent/Operating lease rent income,PL_Composition,of which rent operating lease rent income,Subcomponent,"['of', 'which', 'rent', 'operating', 'lease', 'rent', 'income']",7
+Income from financial services,PL_Composition,income from financial services,Primary,"['income', 'from', 'financial', 'services']",4
+Fee based financial services income,PL_Composition,fee based financial services income,Primary,"['fee', 'based', 'financial', 'services', 'income']",5
+Of which: Brokerage & commission fees,PL_Composition,of which brokerage commission fees,Subcomponent,"['of', 'which', 'brokerage', 'commission', 'fees']",5
+Interest income,PL_Composition,interest income,Primary,"['interest', 'income']",2
+Interest income from banks,PL_Composition,interest income from banks,Primary,"['interest', 'income', 'from', 'banks']",4
+Interest income of cos other than banks from investments,PL_Composition,interest income of cos other than banks from investments,Primary,"['interest', 'income', 'of', 'cos', 'other', 'than', 'banks', 'from', 'investments']",9
+Interest income of cos other than banks from loans and advances,PL_Composition,interest income of cos other than banks from loans and advances,Primary,"['interest', 'income', 'of', 'cos', 'other', 'than', 'banks', 'from', 'loans', 'and', 'advances']",11
+Dividend income,PL_Composition,dividend income,Primary,"['dividend', 'income']",2
+Of which: Dividend from group companies,PL_Composition,of which dividend from group companies,Subcomponent,"['of', 'which', 'dividend', 'from', 'group', 'companies']",6
+Share of profit in partnership and JV firms,PL_Composition,share of profit in partnership and jv firms,Primary,"['share', 'of', 'profit', 'in', 'partnership', 'and', 'jv', 'firms']",8
+Profit on securitisation/assignment of assets and loans,PL_Composition,profit on securitisation assignment of assets and loans,Primary,"['profit', 'on', 'securitisation', 'assignment', 'of', 'assets', 'and', 'loans']",8
+Income from treasury operations,PL_Composition,income from treasury operations,Primary,"['income', 'from', 'treasury', 'operations']",4
+Gain on financial instruments,PL_Composition,gain on financial instruments,Primary,"['gain', 'on', 'financial', 'instruments']",4
+Gain relating to forex transactions,PL_Composition,gain relating to forex transactions,Primary,"['gain', 'relating', 'to', 'forex', 'transactions']",5
+Other financial services income,PL_Composition,other financial services income,Primary,"['other', 'financial', 'services', 'income']",4
+Other income,PL_Composition,other income,Primary,"['other', 'income']",2
+Of which: Income from carbon credits,PL_Composition,of which income from carbon credits,Subcomponent,"['of', 'which', 'income', 'from', 'carbon', 'credits']",6
+Material/exceptional income,PL_Composition,material exceptional income,Exceptional,"['material', 'exceptional', 'income']",3
+Bad debts recovered,PL_Composition,bad debts recovered,Primary,"['bad', 'debts', 'recovered']",3
+Provisions/impairment and credit balances written back,PL_Composition,provisions impairment and credit balances written back,Primary,"['provisions', 'impairment', 'and', 'credit', 'balances', 'written', 'back']",7
+Gain on corporate and debt restructuring (inclg. one time debt waiver),PL_Composition,gain on corporate and debt restructuring inclg one time debt waiver,Primary,"['gain', 'on', 'corporate', 'and', 'debt', 'restructuring', 'inclg', 'one', 'time', 'debt', 'waiver']",11
+"Profit on sale of investment in subsidiary, associates & JV",PL_Composition,profit on sale of investment in subsidiary associates jv,Primary,"['profit', 'on', 'sale', 'of', 'investment', 'in', 'subsidiary', 'associates', 'jv']",9
+"Fair value gain on retained interest in a subsidiary, associate or JV",PL_Composition,fair value gain on retained interest in a subsidiary associate or jv,Primary,"['fair', 'value', 'gain', 'on', 'retained', 'interest', 'in', 'a', 'subsidiary', 'associate', 'or', 'jv']",12
+Fair value gain on step acquisition of a subsidiary,PL_Composition,fair value gain on step acquisition of a subsidiary,Primary,"['fair', 'value', 'gain', 'on', 'step', 'acquisition', 'of', 'a', 'subsidiary']",9
+Gain on disposal of non-current non-financial assets,PL_Composition,gain on disposal of non current non financial assets,Primary,"['gain', 'on', 'disposal', 'of', 'non', 'current', 'non', 'financial', 'assets']",9
+Insurance claims,PL_Composition,insurance claims,Primary,"['insurance', 'claims']",2
+Less: Income capitalised and transferred to DRE,PL_Composition,less income capitalised and transferred to dre,Deduction,"['less', 'income', 'capitalised', 'and', 'transferred', 'to', 'dre']",7
+Change in stock,Change_Expenses,change in stock,Primary,"['change', 'in', 'stock']",3
+Total Income from continued operations,Change_Expenses,total income from continued operations,Primary,"['total', 'income', 'from', 'continued', 'operations']",5
+Change in stock of finished goods (including in transit),Change_Expenses,change in stock of finished goods including in transit,Primary,"['change', 'in', 'stock', 'of', 'finished', 'goods', 'including', 'in', 'transit']",9
+Income from non-financial services,Change_Expenses,income from non financial services,Primary,"['income', 'from', 'non', 'financial', 'services']",5
+Change in stock of wip and semifinished goods (including in transit),Change_Expenses,change in stock of wip and semifinished goods including in transit,Primary,"['change', 'in', 'stock', 'of', 'wip', 'and', 'semifinished', 'goods', 'including', 'in', 'transit']",11
+Manufacturing revenue,Change_Expenses,manufacturing revenue,Primary,"['manufacturing', 'revenue']",2
+Other adjustments in change in inventories,Change_Expenses,other adjustments in change in inventories,Adjustment,"['other', 'adjustments', 'in', 'change', 'in', 'inventories']",6
+Trading revenue and non-financial services,Change_Expenses,trading revenue and non financial services,Primary,"['trading', 'revenue', 'and', 'non', 'financial', 'services']",6
+Sales of goods,Change_Expenses,sales of goods,Primary,"['sales', 'of', 'goods']",3
+Total expenses of continued operations,Change_Expenses,total expenses of continued operations,Primary,"['total', 'expenses', 'of', 'continued', 'operations']",5
+Job-work income,Change_Expenses,job work income,Primary,"['job', 'work', 'income']",3
+Total expenses excluding direct taxes,Change_Expenses,total expenses excluding direct taxes,Primary,"['total', 'expenses', 'excluding', 'direct', 'taxes']",5
+"Expenses other than Depreciation, Interest, Taxes, Provisions and Amortizations",Change_Expenses,expenses other than depreciation interest taxes provisions and amortizations,Primary,"['expenses', 'other', 'than', 'depreciation', 'interest', 'taxes', 'provisions', 'and', 'amortizations']",9
+Income from repairs & maintenance including after-sales service income,Change_Expenses,income from repairs maintenance including after sales service income,Primary,"['income', 'from', 'repairs', 'maintenance', 'including', 'after', 'sales', 'service', 'income']",9
+Construction income,Change_Expenses,construction income,Primary,"['construction', 'income']",2
+Ordinary and non-exceptional expenses,Change_Expenses,ordinary and non exceptional expenses,Exceptional,"['ordinary', 'and', 'non', 'exceptional', 'expenses']",5
+Raw material expenses,Change_Expenses,raw material expenses,Primary,"['raw', 'material', 'expenses']",3
+"Sale of electricity, gas and water",Change_Expenses,sale of electricity gas and water,Primary,"['sale', 'of', 'electricity', 'gas', 'and', 'water']",6
+Fiscal benefits,Change_Expenses,fiscal benefits,Primary,"['fiscal', 'benefits']",2
+"Raw materials, stores & spares",Change_Expenses,raw materials stores spares,Primary,"['raw', 'materials', 'stores', 'spares']",4
+"Of which: Export incentives including duty draw back, etc.",Change_Expenses,of which export incentives including duty draw back etc,Subcomponent,"['of', 'which', 'export', 'incentives', 'including', 'duty', 'draw', 'back', 'etc']",9
+"Stores, spares, tools consumed",Change_Expenses,stores spares tools consumed,Primary,"['stores', 'spares', 'tools', 'consumed']",4
+Of which: Trading income,Change_Expenses,of which trading income,Subcomponent,"['of', 'which', 'trading', 'income']",4
+Packaging and packing expenses,Change_Expenses,packaging and packing expenses,Primary,"['packaging', 'and', 'packing', 'expenses']",4
+Of which: Royalty income,Change_Expenses,of which royalty income,Subcomponent,"['of', 'which', 'royalty', 'income']",4
+Purchase of finished goods,Change_Expenses,purchase of finished goods,Primary,"['purchase', 'of', 'finished', 'goods']",4
+Of which: Rent/Operating lease rent income,Change_Expenses,of which rent operating lease rent income,Subcomponent,"['of', 'which', 'rent', 'operating', 'lease', 'rent', 'income']",7
+"Power, fuel (including wheeling charges paid by electricity companies) & water charges",Change_Expenses,power fuel including wheeling charges paid by electricity companies water charges,Primary,"['power', 'fuel', 'including', 'wheeling', 'charges', 'paid', 'by', 'electricity', 'companies', 'water', 'charges']",11
+Income from financial services,Change_Expenses,income from financial services,Primary,"['income', 'from', 'financial', 'services']",4
+Power & fuel (including wheeling charges paid by electricity companies),Change_Expenses,power fuel including wheeling charges paid by electricity companies,Primary,"['power', 'fuel', 'including', 'wheeling', 'charges', 'paid', 'by', 'electricity', 'companies']",9
+Fee based financial services income,Change_Expenses,fee based financial services income,Primary,"['fee', 'based', 'financial', 'services', 'income']",5
+Water charges,Change_Expenses,water charges,Primary,"['water', 'charges']",2
+Employee benefits expenses,Change_Expenses,employee benefits expenses,Primary,"['employee', 'benefits', 'expenses']",3
+Of which: Brokerage & commission fees,Change_Expenses,of which brokerage commission fees,Subcomponent,"['of', 'which', 'brokerage', 'commission', 'fees']",5
+Interest income,Change_Expenses,interest income,Primary,"['interest', 'income']",2
+"Salaries, wages, bonus, ex gratia pf & gratuities paid",Change_Expenses,salaries wages bonus ex gratia pf gratuities paid,Primary,"['salaries', 'wages', 'bonus', 'ex', 'gratia', 'pf', 'gratuities', 'paid']",8
+Interest income from banks,Change_Expenses,interest income from banks,Primary,"['interest', 'income', 'from', 'banks']",4
+Salaries & wages,Change_Expenses,salaries wages,Primary,"['salaries', 'wages']",2
+Bonus & ex-gratia,Change_Expenses,bonus ex gratia,Primary,"['bonus', 'ex', 'gratia']",3
+Interest income of cos other than banks from investments,Change_Expenses,interest income of cos other than banks from investments,Primary,"['interest', 'income', 'of', 'cos', 'other', 'than', 'banks', 'from', 'investments']",9
+Contribution to provident fund,Change_Expenses,contribution to provident fund,Primary,"['contribution', 'to', 'provident', 'fund']",4
+Interest income of cos other than banks from loans and advances,Change_Expenses,interest income of cos other than banks from loans and advances,Primary,"['interest', 'income', 'of', 'cos', 'other', 'than', 'banks', 'from', 'loans', 'and', 'advances']",11
+Dividend income,Change_Expenses,dividend income,Primary,"['dividend', 'income']",2
+Gratuities and superannuation,Change_Expenses,gratuities and superannuation,Primary,"['gratuities', 'and', 'superannuation']",3
+Of which: Dividend from group companies,Change_Expenses,of which dividend from group companies,Subcomponent,"['of', 'which', 'dividend', 'from', 'group', 'companies']",6
+Share-based payments,Change_Expenses,share based payments,Primary,"['share', 'based', 'payments']",3
+Share of profit in partnership and JV firms,Change_Expenses,share of profit in partnership and jv firms,Primary,"['share', 'of', 'profit', 'in', 'partnership', 'and', 'jv', 'firms']",8
+Staff welfare & training expenses,Change_Expenses,staff welfare training expenses,Primary,"['staff', 'welfare', 'training', 'expenses']",4
+Payments and other expenses on employees,Change_Expenses,payments and other expenses on employees,Primary,"['payments', 'and', 'other', 'expenses', 'on', 'employees']",6
+Profit on securitisation/assignment of assets and loans,Change_Expenses,profit on securitisation assignment of assets and loans,Primary,"['profit', 'on', 'securitisation', 'assignment', 'of', 'assets', 'and', 'loans']",8
+Income from treasury operations,Change_Expenses,income from treasury operations,Primary,"['income', 'from', 'treasury', 'operations']",4
+Less: Compensation to employees capitalised,Change_Expenses,less compensation to employees capitalised,Deduction,"['less', 'compensation', 'to', 'employees', 'capitalised']",5
+Gain on financial instruments,Change_Expenses,gain on financial instruments,Primary,"['gain', 'on', 'financial', 'instruments']",4
+Indirect taxes,Change_Expenses,indirect taxes,Primary,"['indirect', 'taxes']",2
+Excise duty,Change_Expenses,excise duty,Primary,"['excise', 'duty']",2
+Gain relating to forex transactions,Change_Expenses,gain relating to forex transactions,Primary,"['gain', 'relating', 'to', 'forex', 'transactions']",5
+Other financial services income,Change_Expenses,other financial services income,Primary,"['other', 'financial', 'services', 'income']",4
+Sales tax,Change_Expenses,sales tax,Primary,"['sales', 'tax']",2
+Goods and service tax,Change_Expenses,goods and service tax,Primary,"['goods', 'and', 'service', 'tax']",4
+Other income,Change_Expenses,other income,Primary,"['other', 'income']",2
+Of which: Income from carbon credits,Change_Expenses,of which income from carbon credits,Subcomponent,"['of', 'which', 'income', 'from', 'carbon', 'credits']",6
+Value added tax (VAT),Change_Expenses,value added tax vat,Primary,"['value', 'added', 'tax', 'vat']",4
+Less: indirect tax credits,Change_Expenses,less indirect tax credits,Deduction,"['less', 'indirect', 'tax', 'credits']",4
+Material/exceptional income,Change_Expenses,material exceptional income,Exceptional,"['material', 'exceptional', 'income']",3
+Bad debts recovered,Change_Expenses,bad debts recovered,Primary,"['bad', 'debts', 'recovered']",3
+Other indirect taxes,Change_Expenses,other indirect taxes,Primary,"['other', 'indirect', 'taxes']",3
+Of which: Service tax,Change_Expenses,of which service tax,Subcomponent,"['of', 'which', 'service', 'tax']",4
+Provisions/impairment and credit balances written back,Change_Expenses,provisions impairment and credit balances written back,Primary,"['provisions', 'impairment', 'and', 'credit', 'balances', 'written', 'back']",7
+Gain on corporate and debt restructuring (inclg. one time debt waiver),Change_Expenses,gain on corporate and debt restructuring inclg one time debt waiver,Primary,"['gain', 'on', 'corporate', 'and', 'debt', 'restructuring', 'inclg', 'one', 'time', 'debt', 'waiver']",11
+"Royalties, technical know-how fees, etc.",Change_Expenses,royalties technical know how fees etc,Primary,"['royalties', 'technical', 'know', 'how', 'fees', 'etc']",6
+"Profit on sale of investment in subsidiary, associates & JV",Change_Expenses,profit on sale of investment in subsidiary associates jv,Primary,"['profit', 'on', 'sale', 'of', 'investment', 'in', 'subsidiary', 'associates', 'jv']",9
+Royalty,Change_Expenses,royalty,Primary,['royalty'],1
+"Fair value gain on retained interest in a subsidiary, associate or JV",Change_Expenses,fair value gain on retained interest in a subsidiary associate or jv,Primary,"['fair', 'value', 'gain', 'on', 'retained', 'interest', 'in', 'a', 'subsidiary', 'associate', 'or', 'jv']",12
+Technical know-how fees and technical service fees,Change_Expenses,technical know how fees and technical service fees,Primary,"['technical', 'know', 'how', 'fees', 'and', 'technical', 'service', 'fees']",8
+Fair value gain on step acquisition of a subsidiary,Change_Expenses,fair value gain on step acquisition of a subsidiary,Primary,"['fair', 'value', 'gain', 'on', 'step', 'acquisition', 'of', 'a', 'subsidiary']",9
+License fees,Change_Expenses,license fees,Primary,"['license', 'fees']",2
+Gain on disposal of non-current non-financial assets,Change_Expenses,gain on disposal of non current non financial assets,Primary,"['gain', 'on', 'disposal', 'of', 'non', 'current', 'non', 'financial', 'assets']",9
+Rent & lease rent,Change_Expenses,rent lease rent,Primary,"['rent', 'lease', 'rent']",3
+Insurance claims,Change_Expenses,insurance claims,Primary,"['insurance', 'claims']",2
+Repairs & maintenance,Change_Expenses,repairs maintenance,Primary,"['repairs', 'maintenance']",2
+Less: Income capitalised and transferred to DRE,Change_Expenses,less income capitalised and transferred to dre,Deduction,"['less', 'income', 'capitalised', 'and', 'transferred', 'to', 'dre']",7
+Repairs & maintenance of buildings,Change_Expenses,repairs maintenance of buildings,Primary,"['repairs', 'maintenance', 'of', 'buildings']",4
+Repairs & maintenance of plant & machinery,Change_Expenses,repairs maintenance of plant machinery,Primary,"['repairs', 'maintenance', 'of', 'plant', 'machinery']",5
+Repairs & maintenance of vehicles & others,Change_Expenses,repairs maintenance of vehicles others,Primary,"['repairs', 'maintenance', 'of', 'vehicles', 'others']",5
+Insurance premium paid,Change_Expenses,insurance premium paid,Primary,"['insurance', 'premium', 'paid']",3
+Outsourced industrial jobs (Including Mfg.),Change_Expenses,outsourced industrial jobs including mfg,Primary,"['outsourced', 'industrial', 'jobs', 'including', 'mfg']",5
+Outsourced professional services,Change_Expenses,outsourced professional services,Primary,"['outsourced', 'professional', 'services']",3
+Auditors fees,Change_Expenses,auditors fees,Primary,"['auditors', 'fees']",2
+Audit fees,Change_Expenses,audit fees,Primary,"['audit', 'fees']",2
+Auditors fees for taxation matters,Change_Expenses,auditors fees for taxation matters,Primary,"['auditors', 'fees', 'for', 'taxation', 'matters']",5
+Auditors fees for company law matters & others,Change_Expenses,auditors fees for company law matters others,Primary,"['auditors', 'fees', 'for', 'company', 'law', 'matters', 'others']",7
+Consultancy fees,Change_Expenses,consultancy fees,Primary,"['consultancy', 'fees']",2
+Consultancy fees to auditors,Change_Expenses,consultancy fees to auditors,Primary,"['consultancy', 'fees', 'to', 'auditors']",4
+Consultancy fees to others,Change_Expenses,consultancy fees to others,Primary,"['consultancy', 'fees', 'to', 'others']",4
+Other professional services,Change_Expenses,other professional services,Primary,"['other', 'professional', 'services']",3
+Of which: Cost audit fees,Change_Expenses,of which cost audit fees,Subcomponent,"['of', 'which', 'cost', 'audit', 'fees']",5
+Of which: Legal charges,Change_Expenses,of which legal charges,Subcomponent,"['of', 'which', 'legal', 'charges']",4
+Non-executive directors' fees & commission,Change_Expenses,non executive directors fees commission,Primary,"['non', 'executive', 'directors', 'fees', 'commission']",5
+Selling & distribution expenses,Change_Expenses,selling distribution expenses,Primary,"['selling', 'distribution', 'expenses']",3
+Marketing expenses,Change_Expenses,marketing expenses,Primary,"['marketing', 'expenses']",2
+Rebates & discount expenses,Change_Expenses,rebates discount expenses,Primary,"['rebates', 'discount', 'expenses']",3
+Sales promotion expenses,Change_Expenses,sales promotion expenses,Primary,"['sales', 'promotion', 'expenses']",3
+Advertising expenses,Change_Expenses,advertising expenses,Primary,"['advertising', 'expenses']",2
+Distribution expenses (including outward freight),Change_Expenses,distribution expenses including outward freight,Primary,"['distribution', 'expenses', 'including', 'outward', 'freight']",5
+Travel expenses,Change_Expenses,travel expenses,Primary,"['travel', 'expenses']",2
+Communications expenses,Change_Expenses,communications expenses,Primary,"['communications', 'expenses']",2
+Telephone expenses,Change_Expenses,telephone expenses,Primary,"['telephone', 'expenses']",2
+Postage & courier,Change_Expenses,postage courier,Primary,"['postage', 'courier']",2
+"Expenses on data centres, web hosting and co hosting",Change_Expenses,expenses on data centres web hosting and co hosting,Primary,"['expenses', 'on', 'data', 'centres', 'web', 'hosting', 'and', 'co', 'hosting']",9
+"Expenses on vsats, satellite links",Change_Expenses,expenses on vsats satellite links,Primary,"['expenses', 'on', 'vsats', 'satellite', 'links']",5
+Expenses on isps for internet services,Change_Expenses,expenses on isps for internet services,Primary,"['expenses', 'on', 'isps', 'for', 'internet', 'services']",6
+Software charges,Change_Expenses,software charges,Primary,"['software', 'charges']",2
+IT enabled services charges,Change_Expenses,it enabled services charges,Primary,"['it', 'enabled', 'services', 'charges']",4
+Miscellaneous expenditure,Change_Expenses,miscellaneous expenditure,Primary,"['miscellaneous', 'expenditure']",2
+Donations,Change_Expenses,donations,Primary,['donations'],1
+Social and community expenses (including CSR exp),Change_Expenses,social and community expenses including csr exp,Primary,"['social', 'and', 'community', 'expenses', 'including', 'csr', 'exp']",7
+Environment and pollution control related expenses,Change_Expenses,environment and pollution control related expenses,Primary,"['environment', 'and', 'pollution', 'control', 'related', 'expenses']",6
+Penalties on direct taxes,Change_Expenses,penalties on direct taxes,Primary,"['penalties', 'on', 'direct', 'taxes']",4
+Research & development expenses,Change_Expenses,research development expenses,Primary,"['research', 'development', 'expenses']",3
+Penalties on taxes,Change_Expenses,penalties on taxes,Primary,"['penalties', 'on', 'taxes']",3
+Other operational expenses of non-financial services enterprises,Change_Expenses,other operational expenses of non financial services enterprises,Primary,"['other', 'operational', 'expenses', 'of', 'non', 'financial', 'services', 'enterprises']",8
+Financial services expenses,Change_Expenses,financial services expenses,Primary,"['financial', 'services', 'expenses']",3
+Fee based financial services expenses,Change_Expenses,fee based financial services expenses,Primary,"['fee', 'based', 'financial', 'services', 'expenses']",5
+Bank charges and commission,Change_Expenses,bank charges and commission,Primary,"['bank', 'charges', 'and', 'commission']",4
+Guarantee fees and commission,Change_Expenses,guarantee fees and commission,Primary,"['guarantee', 'fees', 'and', 'commission']",4
+Fund based financial services expenses,Change_Expenses,fund based financial services expenses,Primary,"['fund', 'based', 'financial', 'services', 'expenses']",5
+Interest expense,Change_Expenses,interest expense,Primary,"['interest', 'expense']",2
+Interest on long term borrowings / convertible borrowings,Change_Expenses,interest on long term borrowings convertible borrowings,Primary,"['interest', 'on', 'long', 'term', 'borrowings', 'convertible', 'borrowings']",7
+Interest on short term borrowings / bank overdrafts / revolving credit facility,Change_Expenses,interest on short term borrowings bank overdrafts revolving credit facility,Primary,"['interest', 'on', 'short', 'term', 'borrowings', 'bank', 'overdrafts', 'revolving', 'credit', 'facility']",10
+Other interest expense (term not specified),Change_Expenses,other interest expense term not specified,Primary,"['other', 'interest', 'expense', 'term', 'not', 'specified']",6
+Interest on finance lease,Change_Expenses,interest on finance lease,Primary,"['interest', 'on', 'finance', 'lease']",4
+Less: Interest capitalised,Change_Expenses,less interest capitalised,Deduction,"['less', 'interest', 'capitalised']",3
+Premium/discount on debt instruments,Change_Expenses,premium discount on debt instruments,Primary,"['premium', 'discount', 'on', 'debt', 'instruments']",5
+Other borrowing costs,Change_Expenses,other borrowing costs,Primary,"['other', 'borrowing', 'costs']",3
+Bill discounting charges,Change_Expenses,bill discounting charges,Primary,"['bill', 'discounting', 'charges']",3
+Other fund based financial services expenses,Change_Expenses,other fund based financial services expenses,Primary,"['other', 'fund', 'based', 'financial', 'services', 'expenses']",6
+Of which: Share of loss in partnership and JV firms,Change_Expenses,of which share of loss in partnership and jv firms,Subcomponent,"['of', 'which', 'share', 'of', 'loss', 'in', 'partnership', 'and', 'jv', 'firms']",10
+Of which: Loss on securitisation/assignment of assets and loans,Change_Expenses,of which loss on securitisation assignment of assets and loans,Subcomponent,"['of', 'which', 'loss', 'on', 'securitisation', 'assignment', 'of', 'assets', 'and', 'loans']",10
+Treasury operations expenses,Change_Expenses,treasury operations expenses,Primary,"['treasury', 'operations', 'expenses']",3
+Loss on financial instruments,Change_Expenses,loss on financial instruments,Primary,"['loss', 'on', 'financial', 'instruments']",4
+Loss relating to forex transactions,Change_Expenses,loss relating to forex transactions,Primary,"['loss', 'relating', 'to', 'forex', 'transactions']",5
